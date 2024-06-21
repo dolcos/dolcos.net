@@ -1,0 +1,10 @@
+---
+title: "Lecturas recomendadas"
+bibliography: assets/bibliography.bib
+---
+
+::: {#refs}
+[@gabors2021]
+[@james2013]
+[@salazar2021]
+:::
