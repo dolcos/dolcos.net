@@ -1,3 +1,0 @@
----
-title: "Aplicaciones y tableros de control"
----
