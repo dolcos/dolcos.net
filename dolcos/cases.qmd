@@ -1,3 +1,0 @@
----
-title: "Análisis de Situaciones de Negocio (ASN)"
----
